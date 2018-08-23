@@ -1,1 +1,1 @@
-# Pr-ctica-No.-1 de Fundamentos de Programación
+# Práctica No. 1 de Fundamentos de Programación
